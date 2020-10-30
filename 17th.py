@@ -1,3 +1,4 @@
+#merged with speciA as topic of special variable __name__
 import speciA
 
 
