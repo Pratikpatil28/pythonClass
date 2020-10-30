@@ -1,3 +1,4 @@
+#merged with cal as on topic of Modules
 from cal import *
 
 a=int(input("Enter the value of a - "))
